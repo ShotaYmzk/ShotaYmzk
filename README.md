@@ -15,9 +15,3 @@ AIを作っています。麻雀AI（Transformer）の開発と、その判断�
 つまりこの図は、AIの頭の中にある「牌の地図」を覗いたものだと思ってください。
 
 ![麻雀AIの牌トークン埋め込み（層4）を3次元PCAで可視化](https://raw.githubusercontent.com/ShotaYmzk/mahjong-ai-qiita-images/main/pca3d_layer4.gif)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://raw.githubusercontent.com/ShotaYmzk/ShotaYmzk/main/stats.svg)
-
-このカードは GitHub Actions によって毎日自動で更新されています。
